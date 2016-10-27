@@ -42,7 +42,7 @@ while True:
             sys.exit()
     pygame.display.update()
     
-    # co to? #
+    co to?
     
 import pygame, sys, time, random
 from pygame.locals import *
