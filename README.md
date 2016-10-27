@@ -42,55 +42,54 @@ while True:
             sys.exit()
     pygame.display.update()
     
-    co to?
     
-import pygame, sys, time, random
-from pygame.locals import *
+    
+    AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+    
+    import pygame, sys
+from pygame import *
 
 pygame.init()
+screen = pygame.display.set_mode((640, 480))
+pygame.display.set_caption('Paddle Movement')
 
-windowSurface = pygame.display.set_mode((500, 400), 0, 32)
-pygame.display.set_caption("Paint")
 
-BLACK = (0, 0, 0)
-WHITE = (255, 255, 255)
-RED = (255, 0, 0)
-GREEN = (0, 255, 0)
-BLUE = (0, 0, 255)
+PADDLE_WIDTH = 50
+PADDLE_HEIGHT = 10
+paddleSpeedX = 0
+p1Paddle = pygame.Rect(10, 430, PADDLE_WIDTH, PADDLE_HEIGHT)
+PADDLE_COLOR = pygame.color.Color("red")
 
-windowSurface.fill(WHITE)
-
-info = pygame.display.Info()
-sw = info.current_w
-sh = info.current_h
-
-x = y = 0
-
-dx = 5
-dy = 2
-
+# clock object that will be used to make the game
+# have the same speed on all machines regardless
+# of the actual machine speed.
+clock = pygame.time.Clock()
 
 while True:
-    windowSurface.fill(WHITE) #This clears the screen on each redraw
-    pygame.draw.polygon(windowSurface,BLUE,((0+x,250+y),(120+x,120+y),(55+x,55+y)))
-    pygame.draw.polygon(windowSurface,RED,((0+x,150+y),(85+x,85+y),(100+x,175+y),(0+x,150+y)))
-    pygame.draw.line(windowSurface,BLACK,(60+x,85+y), (120+x, 110+y), 6)
-    pygame.draw.circle(windowSurface, GREEN , (75+x,100+y), 13, 0)
+    # limit the demo to 50 frames per second
+    clock.tick( 50 );
 
-    x += dx
-    y += dy
-
-    if x < 0 or x > sw-120:
-    dx = -dx
-    x += dx
-if y < -85 or y > sh-175:
-    dy = -dy
-    y += dy 
-
-    pygame.display.update()
+    # clear screen with black color
+    screen.fill( (0,0,0) )
 
     for event in pygame.event.get():
         if event.type == QUIT:
             pygame.quit()
             sys.exit()
+            pygame.display.update()
 
+    keys = pygame.key.get_pressed()
+    if keys[K_LEFT]:
+        p1Paddle.left = p1Paddle.left + paddleSpeedX - 5
+
+    if keys[K_RIGHT]:
+        p1Paddle.left = p1Paddle.left + paddleSpeedX + 5
+
+    if keys[K_] 
+
+    # draw the paddle
+    screen.fill( PADDLE_COLOR, p1Paddle );
+
+    pygame.display.update()
+
+  
