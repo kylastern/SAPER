@@ -1,0 +1,94 @@
+Kim jesteœ?
+saperem
+
+Dobrz, a co robisz?
+obecnie nic
+
+Czy na planszy znajduj¹ sie jakieœ bomby ?
+nie wiem
+
+JedŸ w lew¹ stronê i szukaj po drodze min.
+rozumiem
+
+Znalz³eœ jakiœ ³adunek wybuchowy?
+tak kilometr temu
+
+Wróæ do tego ³adunku i go rozbrój
+rozumiem
+rozbroi³em
+
+JedŸ od tego miejsca na pó³noc i szukaj kolejnej bomby. Poinformuj mnie o wynikach.
+rozumiem
+znalaz³em 3 bomby nieznanego typu, jedna kilometr temu druga 2 km temu trzecia 3 km temu,jechaæ dalej?
+
+Rozbrój dwie ostatnio znalezione bomby . Nastêpnie udaj siê na po³udnie i zatrzymaj siê przy znalezionym ó³adunku.
+pierwszej bomby nie mogê rozbroiæ, brak odpowiedniego sprzêtu
+
+No dobrze
+nie rozumiem polecenia no dobrze
+
+To jedŸ do nastêpnej.\
+rozumiem
+jestem
+
+Jedzie ksi¹dz na karuzeli
+nie rozumiem polecenia "jedzie ksi¹dz na karuzeli"
+
+Ile ³adunków mo¿esz przewoziæ?
+2
+
+Ile masz za³adowanych bomb?
+0
+
+Szukaj bomby
+Nie podano gdzie
+
+Przed siebie
+Rozumiem
+natrafi³em na przeszkodê, woda
+
+Omiñ przeszkodê i jedŸ dalej
+nie mogê prawdopodobnie to jest rzeka
+
+To skrêæ o 90 stopni w prawo i jedŸ dalej w poszukliwaniu bomby
+---------------------------
+______________
+___________________
+DWIG
+Co potrafisz?
+
+Jestem agentem dŸwig. Potrafiê przenosiæ przedmioty.
+Czy umiesz siê p[oruszaæ?
+
+Potrafiê przenosiæ przedmioty.
+Jakie jest Twoje Ÿród³o energii?
+
+Energia elektryczna.
+Jak d³ugo mo¿esz pracowaæ?
+
+Bez przerwy
+to po³ó¿ czarny kontener na czerwony kontener
+
+Znalaz³em dwa czarne kontenery
+u¿yj funkcji random
+nastêpnie wybierz któryœ
+
+Wykona³em
+nic nie rób
+
+Wykona³em.
+przenieœ zielon¹ skrzynkê obok tego kontenera,który przenios³eœ
+
+Po³o¿y³em zielon¹ skrzynkê na prawo od czarnego kontenera.
+Czy mo¿esz po³o¿yæ czerwon¹ skrzynkê na prawo od zielonej?
+
+Mogê. Wkonaæ?
+tak
+
+Wykona³em.
+Postaw Marylê Rodowicz na najwy¿sz¹ skrzynkê i wy³¹cz silnik i pozwól jej œpiewaæ
+
+Nie rozpozna³em polecenia. Przeformu³uj je.
+Czy mo¿esz przenosiæ ludzi?
+
+Nie ma obiektu luydzi na planszy.
