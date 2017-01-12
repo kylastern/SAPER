@@ -1,0 +1,70 @@
+Robot saperski model 11241bfyy2525-2525ngi. Proszê podaæ polecenie
+
+Przesuñ o 5 pól w górê i 3 lewo.
+
+Pole niedostêpne. Polecenie wykonane:  g - 5, l - 2
+
+Przesuñ o 5 pól w górê i 2 w lewo
+
+Pole niedostêpne. Polecenie wykonane:  g - 5, l - 1
+
+IdŸ 1 w prawo i 4 w dó³
+
+Polecenie wykonane poprawnie
+
+jedŸ 1 w lewo
+
+Polecenie wykonane poprawnie
+
+turlaj siê 2 do góry i 2 w lewo
+
+Polecenie "turlaj" nierozpoznane
+
+idŸ 2 do góry i 2 w lewo
+
+Polecenie wykonane poprawnie
+
+czy w promieniu 2 pól jest bomba?
+
+Tak
+
+jakiego rodzaju?
+
+£adunek wybuchowy ISIS. Zalecana akcja - detonacja
+
+czy s¹ dostêpne inne akcje?
+
+Tak
+
+jakie?
+
+Rozbrojenie
+Transport
+Transport + detonacja
+Transport + rozbrojenie
+
+spróbuj rozbroiæ
+
+B³¹d polecenia. W promieniu 1 pola nie ma bomby
+
+idz 1 w lewo
+
+Polecenie wykonane poprawnie
+
+rozbrój
+
+Pokrywa bomby otwarta.
+Dostêpne akcje:
+Przetnij kabel - czerwony / niebieski / czarny
+Przekrêæ zawór - zielony / bia³y
+
+Przetnij niebieski kabelek
+
+Pierwszy ³adunek rozbrojony. Pozosta³ jeszcze jeden.
+Dostêpne akcje:
+Przetnij kabel - czerwony /  czarny
+Przekrêæ zawór - zielony / bia³y
+
+Przekrêæ bia³y i zielony zawór
+
+Detonacja. £¹czna liczba ofiar - 129,995,153

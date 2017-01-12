@@ -1,0 +1,41 @@
+SAPER
+- Jestem saperem. Co mam robiæ? 
+- IdŸ piêæ pól w lewo i sprawdŸ czy jest bomba.
+- Przeszed³em trzy pola i napotka³em œcianê.
+- SprawdŸ, czy jest bomba.
+- Nie ma bomby. Co dalej?
+- Szukaj najbli¿szej bomby.
+- Przejecha³em trzy pola do góry i piêæ w prawo. Znajdujê siê na polu E7.
+- Rozbrój bombê.
+- Czekaj.. 3.. 2.. 1.. Rozbroi³em bombê.
+- WywieŸ bombê.
+- Jadê do H25 wywieŸæ bombê.  
+- WysadŸ bombê.
+- Nie znam polecenia 'wysadŸ'.
+- Zneutralizuj bombê. 
+- 3.. 2.. 1.. Bomba zneutralizowana.
+
+KELNER
+-Witam w restauracji. Co podaæ?
+-Witam, co mo¿e Pani poleciæ do jedzenia ?
+-Polecam danie dnia. Schabowy z ziemniakami.
+-Co jeszcze znajduje siê w menu?
+-Polecam (losuje 2 dania) Deska serów i Pierogi z miêsem.
+-Poproszê pierogi z miêsem
+-Ju¿ przynoszê. Proszê bardzo.
+-Mo¿na domówiæ jakiœ deser ?
+-Przepraszam. Nie znam s³owa 'domówiæ'.
+-Poproszê deser lodowy z czekolad¹
+-W menu nie ma takiego dania.
+-Poproszê o menu z deserami.
+-Proszê, oto menu.
+-Czy mo¿esz zaproponowaæ mi jakiœ deser ?
+- Polecam (losuje 2 desery) Owoce z bit¹ œmietan¹ i Galaretka agrestowa.
+-Poproszê owoce z bit¹ œmietan¹
+-Ju¿ przynoszê. Proszê bardzo.
+-Czy podaæ coœ jeszcze?
+-To wszystko, czy móg³bym prosiæ o rachunek ?
+-Proszê, oto rachunek. 30 z³.
+-Chcia³bym zap³aciæ kart¹
+-Ju¿ przynoszê terminal. 3.. 2.. 1.. Dziêkujê. Zapraszam ponownie.
+-Dziêkuje, do widzenia.
